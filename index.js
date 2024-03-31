@@ -40,3 +40,5 @@ let bikeBrands = { date: 1997, bike: bikeOne };
 // console.log(bikeBrands.bike.brand);
 // console.log(bikeBrands.bike.color);
 
+// some new code here
+console.log("This is a newly added line of code");
