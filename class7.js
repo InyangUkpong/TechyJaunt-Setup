@@ -37,6 +37,7 @@ console.log(newInstance.sayProps());
 // console.log(newCar.getMake());
 // console.log(newCar.getModel());
 
+
 // Inheritance
 class Animal {
     constructor(name, type, diet){
